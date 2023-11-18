@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> should render the heading 1`] = `
+.c0 {
+  font-size: 16px;
+  padding: 8px 16px;
+  border-radius: 4px;
+  box-shadow: none;
+  border: 0;
+  cursor: pointer;
+  background-color: #E07b28;
+  color: #FFF;
+}
+
+<button
+  buttontype="primary"
+  class="c0"
+>
+  editar
+</button>
+`;
