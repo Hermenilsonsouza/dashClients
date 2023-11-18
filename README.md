@@ -1,8 +1,7 @@
+# Custom List
 
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+## 📖 About
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
-![ci](https://github.com/React-Avancado/boilerplate-apps-router/workflows/ci/badge.svg)
 ## What is inside?
 
 This project uses lot of stuff as:
@@ -42,17 +41,16 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
 
-## Learn More
+##
 
-To learn more about Next.js, take a look at the following resources:
+<a href="https://github.com/Hermenilsonsouza">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/58486964?s=400&u=0751998a04b62281f2d53261099d69c5d2a96941&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Hermenilson Souza</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Feito por Hermenilson souza 👋🏽 Entre em contato!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[![Linkedin Badge](https://img.shields.io/badge/-Hermenilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/hermenilson-souza-180419124/)
+[![Gmail Badge](https://img.shields.io/badge/-hermenilson.souza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](hermenilson.souza@gmail.com)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![ci](https://github.com/React-Avancado/boilerplate-apps-router/workflows/ci/badge.svg)
