@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Status /> should render the Status 1`] = `
+.c0 {
+  padding: 16px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.c2 {
+  font-size: 18px;
+  color: #333;
+}
+
+.c1 {
+  width: 16px;
+  height: 16px;
+  border-radius: 8px;
+  background-color: #EEAD2D;
+}
+
+<main
+  class="c0"
+>
+  <div
+    class="c1"
+    status="Aguardando ativação"
+  />
+  <div
+    class="c2"
+  >
+    Aguardando ativação
+  </div>
+</main>
+`;

@@ -20,16 +20,16 @@ describe('<Button />', () => {
       render(<Button title="editar" buttontype="secondary" />)
 
       expect(screen.getByRole('button', { name: /editar/i })).toHaveStyle({
-        'background-color': '#FFF',
-        color: '#E07b28'
+        'background-color': 'rgb(224, 123, 40)',
+        color: 'rgb(255, 255, 255)'
       })
     }),
     it('should render with orange background', () => {
       render(<Button title="editar" buttontype="primary" />)
 
       expect(screen.getByRole('button', { name: /editar/i })).toHaveStyle({
-        'background-color': '#E07b28',
-        color: '#FFF'
+        'background-color': 'rgb(255, 255, 255)',
+        color: 'rgb(224, 123, 40)'
       })
     })
 })

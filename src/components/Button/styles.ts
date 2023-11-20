@@ -5,12 +5,22 @@ const WrapperModifies = {
   primary: () => css`
     background-color: #E07b28;
     color: #FFF;
+    &:hover {
+      background-color: #FFF;
+      border: 1px solid #E07b28;
+      color: #E07b28;
+    }
   `,
 
   secondary: () => css`
     background-color: #FFF;
     border: 1px solid #E07b28;
     color: #E07b28;
+
+    &:hover {
+      background-color: #E07b28;
+      color: #FFF;
+    }
   `
 }
 
